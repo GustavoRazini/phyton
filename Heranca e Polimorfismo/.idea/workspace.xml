@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3d3bfee-4d70-4e83-996c-3c7a4b9ca069" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios_parte1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios_parte2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heranca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heranca_multipla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metodos_magicos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polimorfismo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/propriedades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/super.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/abstracao_e_encapsulamento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/atributos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/exercicios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/metodos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/objetos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/poo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../POO/Objeto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web Scraping/Web Scraping/Desafio_nike/Pasta.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Scraping/Web Scraping/Desafio_nike/Pasta.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web Scraping/Web Scraping/Desafio_nike/nike.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Scraping/Web Scraping/Desafio_nike/nike.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web Scraping/Web Scraping/Desafio_nike/nike.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios_parte1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios_parte2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\gustavo.razini\Documents\Estudos\phyton\Heranca e Polimorfismo\exercicios_parte1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\gustavo.razini\Documents\Estudos\phyton\Heranca e Polimorfismo\exercicios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
